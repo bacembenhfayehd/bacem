@@ -1,9 +1,11 @@
-import React from 'react'
-
-const Experience = () => {
+import { Timeline } from "../components/Timeline";
+import { experiences } from "../constants";
+const Experiences = () => {
   return (
-    <div>Experience</div>
-  )
-}
+    <div className="w-full">
+      <Timeline data={experiences} />
+    </div>
+  );
+};
 
-export default Experience
+export default Experiences;

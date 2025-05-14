@@ -231,50 +231,65 @@ export const mySocials = [
   },
   {
     name: "Linkedin",
-    href: "https://www.linkedin.com/in/ali-sanati/",
+    href: "https://www.linkedin.com/in/bacem-benhfayedh-289b34257/",
     icon: "/assets/socials/linkedIn.svg",
   },
   {
     name: "Instagram",
-    href: "https://www.instagram.com/ali.sanatidev/reels/",
+    href: "https://www.instagram.com/bacem_benhfayedh/",
     icon: "/assets/socials/instagram.svg",
   },
 ];
 
 export const experiences = [
-  {
-    title: "Software Developer",
-    job: "Security & Defense Projects",
-    date: "2021-2023",
-    contents: [
-      "Enhanced application security and developed new features, adhering to standards set by the Passive Defense Organization and National Cyberspace Center.",
-      "Designed and implemented intuitive map interfaces using MapsUI, enhancing user experience and enabling seamless interactive map integration.",
-      "Developed applications for industrial automation, leveraging C++ and the Fatek API for PLC communication.",
-      "Enhanced responsiveness and usability of applications using Windows Forms and WPF frameworks.",
-      "Executed XML to SVG conversions using X-DOM, ensuring dynamic and efficient data visualization.",
-    ],
-  },
-  {
-    title: "Back-End Developer",
-    job: "Car Manufacture",
-    date: "2023-2024",
-    contents: [
-      "Engineered systems for large-scale data ingestion and analysis, ensuring efficient data processing and storage.",
-      "Developed back-end systems enabling vehicle-to-cloud communication for telemetry, diagnostics, and remote control:",
-      "✅ Implemented secure APIs, following ISO 26262 automotive safety standards.",
-      "✅ Ensured data privacy for customers and partners through industry-compliant protocols.",
-      "✅ Delivered remote features like over-the-air updates, real-time tracking, and remote start capabilities.",
-    ],
-  },
+
   {
     title: "Freelance Developer",
     job: "Self-Employed",
-    date: "2025-Present",
+    date: "2022-Present",
     contents: [
       "Created a personal portfolio using Three.js, React, Vite, and WebAPI to showcase technical expertise.",
+      "Delivered web applications for clients across SaaS, e-commerce, and business automation sectors.",
+    ],
+  },
+
+  {
+    title: " Full-Stack Developer",
+    job: "DASH SS",
+    date: "2022-2024",
+    contents: [
+      "Developed scalable web/mobile solutions for diverse sectors (e-commerce, healthcare, SaaS) using TypeScript, Node.js, and React.js.",
       "Continuously enhancing technical skills and expanding expertise in modern web development and back-end technologies.",
     ],
   },
+
+  {
+    title: "Software developer & instructor",
+    job: "GOMYCODE",
+    date: "2024-Present",
+    contents: [
+      "Contributed to the development of GOMYCODE’s e-learning platform using MERN stack and TypeScript.",
+      "Implemented key features for scalable online education:",
+      "✅ Interactive coding labs with Docker containerization for isolated student environments.",
+      "✅ Real-time progress dashboards using WebSocket and React-Charts.",
+      "✅ JWT-based authentication and role-based access (students/instructors/admins).",
+      "Created and taught Full-Stack JavaScript (MERN) courses"
+    ],
+  },
+  {
+    title: "Software Developer",
+    job: "Modern ERP System Development",
+    date: "2024-2025",
+    contents: [
+      "Architected a cloud-based ERP system using Microservices (Node.js, TypeScript) and React (Next.js) for a scalable frontend, reducing load times by 40% through code-splitting and lazy loading.",
+      "Enforced security compliance via JWT/OAuth2, RBAC, and automated audit logs with Elasticsearch.",
+      "Built real-time data visualization for ERP dashboards using webSocket for live updates (inventory/sales)",
+      "Automated industrial PLC workflows by developing a Node.js middleware to bridge Fatek PLCs with the ERP database (PostgreSQL + Prisma ORM).",
+      "Containerized services with Docker/Kubernetes and set up CI/CD pipelines (GitHub Actions) for zero-downtime ERP updates.",
+    ],
+  },
+  
+  
 ];
 export const reviews = [
   {
