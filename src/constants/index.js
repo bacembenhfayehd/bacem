@@ -1,7 +1,7 @@
 export const myProjects = [
   {
     id: 1,
-    title: "E-commerce Platform",
+    title: "E-commerce website",
     description:
       "Facilitates purchases from international websites like Amazon and eBay, allowing customers to shop from these sites and have products delivered domestically.",
     subDescription: [
@@ -12,25 +12,16 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/accessories.jpg",
+    image: "/public/assets/projects/qq.PNG",
     tags: [
       {
         id: 1,
-        name: "C#",
-        path: "/assets/logos/csharp.svg",
+        name: "Nextjs",
+        path: "/public/assets/logos/nextjs.png",
       },
+     
       {
         id: 2,
-        name: ".Net",
-        path: "/assets/logos/dotnet.svg",
-      },
-      {
-        id: 3,
-        name: "Ef Core",
-        path: "/assets/logos/efcore.png",
-      },
-      {
-        id: 4,
         name: "TailwindCSS",
         path: "/assets/logos/tailwindcss.svg",
       },
@@ -38,7 +29,7 @@ export const myProjects = [
   },
   {
     id: 2,
-    title: "Authentication & Authorization System",
+    title: "Inventory Mangement System",
     description:
       "A secure authentication and authorization system using Auth0 for seamless user management.",
     subDescription: [
@@ -58,22 +49,22 @@ export const myProjects = [
       },
       {
         id: 2,
-        name: "React",
+        name: "Nextjs",
         path: "/assets/logos/react.svg",
       },
       {
         id: 3,
-        name: "SQLite",
+        name: "Postgres",
         path: "/assets/logos/sqlite.svg",
       },
       {
         id: 4,
-        name: "TailwindCSS",
+        name: "Typescript",
         path: "/assets/logos/tailwindcss.svg",
       },
     ],
   },
-  {
+  /*{
     id: 3,
     title: "Blazor Web App",
     description:
@@ -109,73 +100,73 @@ export const myProjects = [
         path: "/assets/logos/tailwindcss.svg",
       },
     ],
-  },
+  },*/
   {
     id: 4,
-    title: "C++ Game Engine",
+    title: "Booking application",
     description:
-      "A lightweight C++ game engine designed for 2D and 3D game development.",
+      "A full-stack web application for online booking and reservation management.",
     subDescription: [
-      "Built a powerful rendering engine using OpenGL and C++.",
-      "Developed a physics engine with collision detection and particle effects.",
-      "Implemented a scripting system for easy game customization.",
-      "Optimized performance with multi-threading and efficient memory management.",
+  "Developed a responsive frontend interface with React for seamless user experience.",
+  "Built a RESTful API backend using Node.js and Express for handling bookings.",
+  "Implemented user authentication and authorization for secure access.",
+  "Created an admin dashboard for managing reservations and user data.",
+  "Integrated with a database to store and retrieve booking information efficiently.",
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/game-engine.jpg",
+    image: "/public/assets/projects/20240416_215144 (2).jpg",
     tags: [
       {
         id: 1,
-        name: "C++",
-        path: "/assets/logos/cplusplus.svg",
+        name: "React.js",
+        path: "/public/assets/logos/react.svg",
       },
       {
         id: 2,
-        name: "C#",
-        path: "/assets/logos/csharp.svg",
+        name: "Node.js",
+        path: "/public/assets/logos/nodejs.jpg",
       },
       {
         id: 3,
         name: "Git",
-        path: "/assets/logos/git.svg",
+        path: "/public/assets/logos/git.svg",
       },
       {
         id: 4,
-        name: "Microsoft",
-        path: "/assets/logos/microsoft.svg",
+        name: "tRPC",
+        path: "/public/assets/logos/trpc.png",
       },
     ],
   },
   {
     id: 5,
-    title: "WordPress Custom Theme",
+    title: "Powerd IA ECOMMERCE",
     description:
-      "A fully customizable WordPress theme optimized for performance and SEO.",
+      "A high-performance, scalable e-commerce platform designed for fast load times, seamless checkout, and advanced store customization.",
     subDescription: [
-      "Developed a responsive WordPress theme using HTML5, CSS3, and JavaScript.",
       "Integrated Tailwind CSS for modern styling and UI enhancements.",
       "Optimized SEO and page speed using Vite.js for fast builds.",
       "Implemented custom widgets and plugin compatibility for extended functionality.",
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/wordpress-theme.jpg",
+    image: "/public/assets/projects/hexa1.PNG",
     tags: [
       {
         id: 1,
-        name: "WordPress",
-        path: "/assets/logos/wordpress.svg",
+        name: "React.js",
+        path: "/public/assets/logos/react.svg",
       },
       {
         id: 2,
-        name: "HTML5",
-        path: "/assets/logos/html5.svg",
+        name: "TailwindCSS",
+        path: "/public/assets/logos/tailwindcss.svg",
       },
       {
         id: 3,
-        name: "CSS3",
-        path: "/assets/logos/css3.svg",
+        name: "Node.js",
+        path: "/public/assets/logos/nodejs.jpg",
       },
       {
         id: 4,
@@ -188,36 +179,36 @@ export const myProjects = [
     id: 6,
     title: "Online Learning Platform",
     description:
-      "A web application that allows users to enroll in courses, watch video lectures, and take quizzes.",
+      "A comprehensive online learning platform where users can discover courses, stream video lectures, complete interactive quizzes, and track their progress—all in one place.",
     subDescription: [
-      "Built using Blazor WebAssembly for a seamless SPA experience.",
-      "Implemented video streaming with Azure Media Services.",
-      "Added a quiz system with dynamic question generation and real-time grading.",
-      "Integrated Stripe API for secure payment processing.",
+      "Built with React (Next.js) for a fast, responsive single-page application (SPA) with server-side rendering.",
+      "Node.js backend (Express.js/NestJS) handling API logic, user authentication, and course management.",
+      "AWS-powered video streaming (Amazon CloudFront & S3) for smooth, scalable lecture playback.",
+      
     ],
     href: "",
     logo: "",
-    image: "/assets/projects/elearning.jpg",
+    image: "/public/assets/projects/gg.PNG",
     tags: [
       {
         id: 1,
-        name: "Blazor",
-        path: "/assets/logos/blazor.svg",
+        name: "Reactjs",
+        path: "/public/assets/react.svg",
       },
       {
         id: 2,
-        name: "Azure",
-        path: "/assets/logos/azure.svg",
+        name: "AWS",
+        path: "/public/assets/logos/aws.png",
       },
       {
         id: 3,
-        name: "Stripe",
-        path: "/assets/logos/stripe.svg",
+        name: "Nodejs",
+        path: "/public/assets/logos/nodejs.jpg",
       },
       {
         id: 4,
-        name: "TailwindCSS",
-        path: "/assets/logos/tailwindcss.svg",
+        name: "MongoDB",
+        path: "/public/assets/logos/mongodb.png",
       },
     ],
   },
