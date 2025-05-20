@@ -12,12 +12,12 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "/public/assets/projects/qq.PNG",
+    image: "/assets/projects/qq.PNG",
     tags: [
       {
         id: 1,
         name: "Nextjs",
-        path: "/public/assets/logos/nextjs.png",
+        path: "/assets/logos/nextjs.png",
       },
      
       {
@@ -115,27 +115,27 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "/public/assets/projects/20240416_215144 (2).jpg",
+    image: "/assets/projects/20240416_215144 (2).jpg",
     tags: [
       {
         id: 1,
         name: "React.js",
-        path: "/public/assets/logos/react.svg",
+        path: "/assets/logos/react.svg",
       },
       {
         id: 2,
         name: "Node.js",
-        path: "/public/assets/logos/nodejs.jpg",
+        path: "/assets/logos/nodejs.jpg",
       },
       {
         id: 3,
         name: "Git",
-        path: "/public/assets/logos/git.svg",
+        path: "/assets/logos/git.svg",
       },
       {
         id: 4,
         name: "tRPC",
-        path: "/public/assets/logos/trpc.png",
+        path: "/assets/logos/trpc.png",
       },
     ],
   },
@@ -151,22 +151,22 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "/public/assets/projects/hexa1.PNG",
+    image: "/assets/projects/hexa1.PNG",
     tags: [
       {
         id: 1,
         name: "React.js",
-        path: "/public/assets/logos/react.svg",
+        path: "/assets/logos/react.svg",
       },
       {
         id: 2,
         name: "TailwindCSS",
-        path: "/public/assets/logos/tailwindcss.svg",
+        path: "/assets/logos/tailwindcss.svg",
       },
       {
         id: 3,
         name: "Node.js",
-        path: "/public/assets/logos/nodejs.jpg",
+        path: "/assets/logos/nodejs.jpg",
       },
       {
         id: 4,
@@ -188,27 +188,27 @@ export const myProjects = [
     ],
     href: "",
     logo: "",
-    image: "/public/assets/projects/gg.PNG",
+    image: "/assets/projects/gg.PNG",
     tags: [
       {
         id: 1,
         name: "Reactjs",
-        path: "/public/assets/react.svg",
+        path: "/assets/react.svg",
       },
       {
         id: 2,
         name: "AWS",
-        path: "/public/assets/logos/aws.png",
+        path: "/assets/logos/aws.png",
       },
       {
         id: 3,
         name: "Nodejs",
-        path: "/public/assets/logos/nodejs.jpg",
+        path: "/assets/logos/nodejs.jpg",
       },
       {
         id: 4,
         name: "MongoDB",
-        path: "/public/assets/logos/mongodb.png",
+        path: "/assets/logos/mongodb.png",
       },
     ],
   },
