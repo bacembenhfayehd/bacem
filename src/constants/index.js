@@ -5,8 +5,8 @@ export const myProjects = [
     description:
       "Facilitates purchases from international websites like Amazon and eBay, allowing customers to shop from these sites and have products delivered domestically.",
     subDescription: [
-      "Built a scalable application with ASP.NET Core MVC, integrating global platforms like Amazon for domestic delivery.",
-      "Implemented secure authentication and database management using ASP.NET Core Identity and Entity Framework Core.",
+      "Built a scalable application with ReactJS, integrating global platforms like Amazon for domestic delivery.",
+      "Implemented secure authentication and database management using NodeJS.",
       "Designed a responsive frontend with Tailwind CSS, enhancing user experience.",
       "Added payment systems, localization, and product filtering for functionality improvements.",
     ],
@@ -269,7 +269,7 @@ export const experiences = [
   },
   {
     title: "Software Developer",
-    job: "Modern ERP System Development",
+    job: "Hexagrow",
     date: "2024-2025",
     contents: [
       "Architected a cloud-based ERP system using Microservices (Node.js, TypeScript) and React (Next.js) for a scalable frontend, reducing load times by 40% through code-splitting and lazy loading.",
